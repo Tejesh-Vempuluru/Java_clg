@@ -38,6 +38,6 @@ import java.awt.event.*;
 
     }
     public static void main(String[] args) {
-        Sanji s=new Sanji();
+        new Sanji();
     }
 }
